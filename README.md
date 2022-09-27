@@ -14,3 +14,5 @@
 * main
 * Diagramas
 * BD
+
+Área práctica: 
