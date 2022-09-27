@@ -16,3 +16,5 @@
 * BD
 
 Área práctica: 
+
+<img src="https://github.com/CristianJocol/Prototipo2P/blob/main/capturacentroEducativo%20.png"/>
