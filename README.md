@@ -15,6 +15,6 @@
 * Diagramas
 * BD
 
-Área práctica: 
+:computer: Área práctica: 
 
 <img src="https://github.com/CristianJocol/Prototipo2P/blob/main/CapturacentroEdu.png"/>
