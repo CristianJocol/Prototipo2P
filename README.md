@@ -2,10 +2,15 @@
 
 ## Incluye
 
-Diagramas: 
+:chart_with_upwards_trend: Diagramas: 
 * Hijo
 * Caso de uso 
 * Clases
 
-Scripts: 
+:clipboard: Scripts: 
 * BD centro educativo proporcionada
+
+:deciduous_tree: Ramas: 
+* main
+* Diagramas
+* BD
